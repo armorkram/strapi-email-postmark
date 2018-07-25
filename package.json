@@ -1,0 +1,11 @@
+{
+  "name": "strapi-email-postmark",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "author": "Mark Paolo Cabrera",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "postmark": "^1.6.1"
+  }
+}
